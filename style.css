@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(21, 21, 161);
+    color: white;
+}
+
+p{
+    color: grey;
+}
+
+li{
+    color: red;
+}
+
+#retrato{
+    border-radius: 500px;
+}
